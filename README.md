@@ -5,7 +5,8 @@ Bu uygulama Selçuk Üniversitesi 2014/2015 Bahar dönemi dersi Örüntü Tanım
 Üç boyutlu cisimlerin iki boyutlu resimler kullanılarak YSA ile ayırt edebilen bir Matlab uygulamasıdır.
 Bu uygulama Selçuk Üniversitesi 2014/2015 Bahar dönemi dersi Örüntü Tanıma dersinin dönem projesi olarak gerçekleştirilmiştir.
 
-###English
+#English
+##Identification of Three-Dimensional Objects
 Pattern Recognition class project. Artificial Neural Networks. Image Processing.
 45 different angle learning images teaching neurons for different angle objects recognition. 
 
